@@ -22,5 +22,5 @@ https://painel.ibge.gov.br/pnadc/
 - Assim que abrir o link, em "tema" escolha: acesso a TV, internet e Celular.
 - Na barra "buscar" escolha: DF.
 
-## - Minhas contribuições
+## - Contribuições
 https://github.com/bernardodso/TrabDadosDesmatamento/blob/main/README.md
